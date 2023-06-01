@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 <h1 align="center">Heyo 👋, I'm Justin Wested</h1>
 <h3 align="center">A Front End Web Developer and Dungeon Master, building complex worlds both digital and imaginary!</h3>
 
+<div align=center>
+<img src="https://github.com/JustinWested/JustinWested/assets/32820532/eb62cb72-1646-4b3f-bfc1-15b7b2427067" height="300">
+  </div>
+
 - 🔭 I’m currently working on **client based front end web developement**
 
 - 🌱 I’m currently learning **JAMSTACK and integrating headless CMS' into my workflow--trying desperately to get away from WordPress**
